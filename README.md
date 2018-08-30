@@ -9,5 +9,5 @@ tips to organizing research
 - - lab
 - tools
 - - google drive
-- - adbore reader
+- - adobe reader
 - - sas
