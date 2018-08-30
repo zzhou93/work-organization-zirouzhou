@@ -1,6 +1,11 @@
 # first-report
 tips to organizing research
 
-Zirou Zhou
-- 12
-- 23
+- Zirou Zhou
+- mathematical statistics
+- - grader
+- - introduction
+- - lab
+- - google drive
+- - adbore reader
+- - sas
